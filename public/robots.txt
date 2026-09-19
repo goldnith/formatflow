@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://formatflow.n178ths.chatgpt.site/sitemap.xml
